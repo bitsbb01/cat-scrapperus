@@ -121,7 +121,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5991",
+            "mbps": "4821",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -149,7 +149,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5991",
+            "mbps": "4821",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -233,7 +233,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "1357, ...",
+            "mbps": "3799, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -342,7 +342,7 @@
             "link": "https://list.iptvcat.com/my_list/s/efee943943873521da7d98263e082ade.m3u8",
             "country": "united states of america",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -457,7 +457,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "3795",
+            "mbps": "3795, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -472,34 +472,6 @@
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "3347",
-            "channel": "AKC TV",
-            "link": "https://list.iptvcat.com/my_list/s/df2457aa20bae287086a64d5804fa9d5.m3u8",
-            "country": "united states of america",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370, ...",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "55718",
-            "channel": "AKC TV, US | AKC TV",
-            "link": "https://list.iptvcat.com/my_list/s/321feb163fa4bbd95bfb68655b9ff175.m3u8",
-            "country": "united states of america",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -528,6 +500,34 @@
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "3347",
+            "channel": "AKC TV",
+            "link": "https://list.iptvcat.com/my_list/s/df2457aa20bae287086a64d5804fa9d5.m3u8",
+            "country": "united states of america",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370, ...",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "55718",
+            "channel": "AKC TV, US | AKC TV",
+            "link": "https://list.iptvcat.com/my_list/s/321feb163fa4bbd95bfb68655b9ff175.m3u8",
+            "country": "united states of america",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -743,9 +743,9 @@
             ]
         },
         {
-            "id": "3349",
+            "id": "3350",
             "channel": "Al Horreya TV",
-            "link": "https://list.iptvcat.com/my_list/s/7f0902a934b960466532b69887371d5c.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/b2a032aaf1f8caacb57f7d9ab1b946c1.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -757,9 +757,9 @@
             ]
         },
         {
-            "id": "3350",
+            "id": "3349",
             "channel": "Al Horreya TV",
-            "link": "https://list.iptvcat.com/my_list/s/b2a032aaf1f8caacb57f7d9ab1b946c1.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7f0902a934b960466532b69887371d5c.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -807,21 +807,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "3069, ...",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "55777",
-            "channel": "American Classics, Redbox : American Classics, US | American Classics",
-            "link": "https://list.iptvcat.com/my_list/s/cb83c9322283ca48bc6d8212d6f4d090.m3u8",
-            "country": "united states of america",
-            "liveliness": "85",
-            "status": "offline",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "3064, ...",
+            "mbps": "6000, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -835,21 +821,21 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "1112",
+            "mbps": "1356",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
         },
         {
-            "id": "2592813",
-            "channel": "American Heroes Channel",
-            "link": "https://list.iptvcat.com/my_list/s/5c0e02dda966867ecbbf5d28496846ee.m3u8",
+            "id": "55777",
+            "channel": "American Classics, Redbox : American Classics, US | American Classics",
+            "link": "https://list.iptvcat.com/my_list/s/cb83c9322283ca48bc6d8212d6f4d090.m3u8",
             "country": "united states of america",
-            "liveliness": "100",
+            "liveliness": "85",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "sd",
+            "mbps": "1124, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -869,15 +855,15 @@
             ]
         },
         {
-            "id": "3356",
-            "channel": "American Horrors",
-            "link": "https://list.iptvcat.com/my_list/s/0c0945ae3a06fd12141f226745f18bd2.m3u8",
+            "id": "2592813",
+            "channel": "American Heroes Channel",
+            "link": "https://list.iptvcat.com/my_list/s/5c0e02dda966867ecbbf5d28496846ee.m3u8",
             "country": "united states of america",
-            "liveliness": "99",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "4318",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -890,8 +876,22 @@
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13311",
+            "format": "sd",
+            "mbps": "2313",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "3356",
+            "channel": "American Horrors",
+            "link": "https://list.iptvcat.com/my_list/s/0c0945ae3a06fd12141f226745f18bd2.m3u8",
+            "country": "united states of america",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "sd",
+            "mbps": "2020",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -1171,7 +1171,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "3795",
+            "mbps": "4318",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -1233,9 +1233,9 @@
             ]
         },
         {
-            "id": "3372",
-            "channel": "Better Life TV",
-            "link": "https://list.iptvcat.com/my_list/s/6908203a50a07e7b3e6faa91a62bf7e5.m3u8",
+            "id": "55779",
+            "channel": "Better Life TV, US | Better Life TV",
+            "link": "https://list.iptvcat.com/my_list/s/1103aa47de6b5875949237144ee0e704.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -1247,9 +1247,9 @@
             ]
         },
         {
-            "id": "55779",
-            "channel": "Better Life TV, US | Better Life TV",
-            "link": "https://list.iptvcat.com/my_list/s/1103aa47de6b5875949237144ee0e704.m3u8",
+            "id": "3372",
+            "channel": "Better Life TV",
+            "link": "https://list.iptvcat.com/my_list/s/6908203a50a07e7b3e6faa91a62bf7e5.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -1308,7 +1308,7 @@
             "link": "https://list.iptvcat.com/my_list/s/7333a4a1e4ed1c119891dd5b8659ade6.m3u8",
             "country": "united states of america",
             "liveliness": "100",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
@@ -1549,7 +1549,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5991, ...",
+            "mbps": "3134, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -1835,9 +1835,9 @@
             ]
         },
         {
-            "id": "133495",
+            "id": "3471",
             "channel": "District of Columbia Network",
-            "link": "https://list.iptvcat.com/my_list/s/e985b5e3dba557f70a5b753a7b2df730.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e5fdb22f8426281a8d4c09f29fcba680.m3u8",
             "country": "united states of america",
             "liveliness": "100",
             "status": "online",
@@ -1849,9 +1849,9 @@
             ]
         },
         {
-            "id": "3471",
+            "id": "133495",
             "channel": "District of Columbia Network",
-            "link": "https://list.iptvcat.com/my_list/s/e5fdb22f8426281a8d4c09f29fcba680.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e985b5e3dba557f70a5b753a7b2df730.m3u8",
             "country": "united states of america",
             "liveliness": "100",
             "status": "online",
@@ -1871,7 +1871,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "2303",
+            "mbps": "2215",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -1898,8 +1898,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "1454",
+            "format": "fhd 2k",
+            "mbps": "8378, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -1919,9 +1919,9 @@
             ]
         },
         {
-            "id": "3475",
+            "id": "397160",
             "channel": "Dove Channel",
-            "link": "https://list.iptvcat.com/my_list/s/aa91c3cd119d355b9daef49a8a3b8349.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/441792298e4e255b52cd4a66f3979047.m3u8",
             "country": "united states of america",
             "liveliness": "100",
             "status": "online",
@@ -1933,9 +1933,9 @@
             ]
         },
         {
-            "id": "397160",
+            "id": "3475",
             "channel": "Dove Channel",
-            "link": "https://list.iptvcat.com/my_list/s/441792298e4e255b52cd4a66f3979047.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/aa91c3cd119d355b9daef49a8a3b8349.m3u8",
             "country": "united states of america",
             "liveliness": "100",
             "status": "online",
@@ -2094,8 +2094,8 @@
             "liveliness": "94",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "1732, ...",
+            "format": "hd",
+            "mbps": "6724, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -2749,7 +2749,7 @@
             "channel": "Fox News",
             "link": "https://list.iptvcat.com/my_list/s/6187518c1a81ce2b8d3f81452890de2d.m3u8",
             "country": "united states of america",
-            "liveliness": "33",
+            "liveliness": "25",
             "status": "offline",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
@@ -2976,7 +2976,7 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
+            "format": "hd",
             "mbps": "8370, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
@@ -3169,7 +3169,7 @@
             "channel": "HGTV",
             "link": "https://list.iptvcat.com/my_list/s/e02861220703f7e6a9cfa19f9767f9cc.m3u8",
             "country": "united states of america",
-            "liveliness": "33",
+            "liveliness": "25",
             "status": "offline",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
@@ -3361,20 +3361,6 @@
             ]
         },
         {
-            "id": "3526",
-            "channel": "Hunt Channel",
-            "link": "https://list.iptvcat.com/my_list/s/bee725987e9d356cbd65b369434122e3.m3u8",
-            "country": "united states of america",
-            "liveliness": "98",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "13311, ...",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "3527",
             "channel": "Hunt Channel",
             "link": "https://list.iptvcat.com/my_list/s/766c4a97750f326dd1fd25cda3014aab.m3u8",
@@ -3384,6 +3370,20 @@
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13311",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "3526",
+            "channel": "Hunt Channel",
+            "link": "https://list.iptvcat.com/my_list/s/bee725987e9d356cbd65b369434122e3.m3u8",
+            "country": "united states of america",
+            "liveliness": "98",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "hd",
+            "mbps": "13311, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -3817,7 +3817,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "1051",
+            "mbps": "2194",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -3859,7 +3859,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5981",
+            "mbps": "5997",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -3873,7 +3873,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5997",
+            "mbps": "5991",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -3928,8 +3928,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "485",
+            "format": "hd",
+            "mbps": "4322",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -3940,7 +3940,7 @@
             "link": "https://list.iptvcat.com/my_list/s/3235b2a9a3253e8c961d3a681b1ae354.m3u8",
             "country": "united states of america",
             "liveliness": "98",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
             "mbps": "1677",
@@ -3956,8 +3956,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370, ...",
+            "format": "hd",
+            "mbps": "13311, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -4055,7 +4055,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "1052",
+            "mbps": "868",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -4208,8 +4208,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "8370, ...",
+            "format": "fhd 2k",
+            "mbps": "8378, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -4257,20 +4257,6 @@
             ]
         },
         {
-            "id": "695099",
-            "channel": "The First",
-            "link": "https://list.iptvcat.com/my_list/s/97a206a201f34de455fca716c8724657.m3u8",
-            "country": "united states of america",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "13311, ...",
-            "URI": [
-                "united_states_of_america"
-            ]
-        },
-        {
             "id": "2592743",
             "channel": "The First",
             "link": "https://list.iptvcat.com/my_list/s/cf1180f086f445996566abfc51cfc64c.m3u8",
@@ -4285,6 +4271,20 @@
             ]
         },
         {
+            "id": "695099",
+            "channel": "The First",
+            "link": "https://list.iptvcat.com/my_list/s/97a206a201f34de455fca716c8724657.m3u8",
+            "country": "united states of america",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "hd",
+            "mbps": "13311, ...",
+            "URI": [
+                "united_states_of_america"
+            ]
+        },
+        {
             "id": "694722",
             "channel": "The Love Destination",
             "link": "https://list.iptvcat.com/my_list/s/cde5594ede00ea3e92c20aaa88f144b0.m3u8",
@@ -4292,8 +4292,8 @@
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020, ...",
+            "format": "fhd 2k",
+            "mbps": "6730, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -4419,7 +4419,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5020, ...",
+            "mbps": "3188, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -4584,7 +4584,7 @@
             "link": "https://list.iptvcat.com/my_list/s/404032c2c53727dd5cb228d5bc355df7.m3u8",
             "country": "united states of america",
             "liveliness": "99",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
@@ -4811,7 +4811,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "920, ...",
+            "mbps": "484",
             "URI": [
                 "united_states_of_america"
             ]
@@ -4965,7 +4965,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "2946, ...",
+            "mbps": "1765, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -5286,8 +5286,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "4302",
+            "format": "hd",
+            "mbps": "5991, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -5329,7 +5329,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "8378, ...",
+            "mbps": "5997, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -5342,8 +5342,8 @@
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "1600",
+            "format": "hd",
+            "mbps": "3795, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -6014,8 +6014,8 @@
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "4821, ...",
+            "format": "sd",
+            "mbps": "3262, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -6197,7 +6197,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "3625, ...",
+            "mbps": "3625",
             "URI": [
                 "united_states_of_america"
             ]
@@ -6350,8 +6350,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "4043, ...",
+            "format": "hd",
+            "mbps": "6241, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -6516,10 +6516,10 @@
             "link": "https://list.iptvcat.com/my_list/s/cc257e716cb9eb07ab73bc3d4f024e7a.m3u8",
             "country": "united states of america",
             "liveliness": "84",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "1247, ...",
+            "format": "hd",
+            "mbps": "3066, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -6588,8 +6588,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "3799",
+            "format": "sd",
+            "mbps": "1395",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -6603,7 +6603,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "868",
+            "mbps": "1052",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -6658,8 +6658,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "3799",
+            "format": "sd",
+            "mbps": "1761",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -7603,20 +7603,6 @@
             ]
         },
         {
-            "id": "3602",
-            "channel": "New Orleans TV",
-            "link": "https://list.iptvcat.com/my_list/s/01a7ce738878931ffb935d88707a5a11.m3u8",
-            "country": "united states of america",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "14302",
             "channel": "New Orleans TV",
             "link": "https://list.iptvcat.com/my_list/s/97e13d13989852f810b86f1efd02f17e.m3u8",
@@ -7631,15 +7617,15 @@
             ]
         },
         {
-            "id": "2592597",
-            "channel": "NewsMax TV",
-            "link": "https://list.iptvcat.com/my_list/s/296d4799294209bc5c342a54dfce3cf5.m3u8",
+            "id": "3602",
+            "channel": "New Orleans TV",
+            "link": "https://list.iptvcat.com/my_list/s/01a7ce738878931ffb935d88707a5a11.m3u8",
             "country": "united states of america",
-            "liveliness": "100",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "hd",
+            "mbps": "3795",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -7654,6 +7640,20 @@
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2592597",
+            "channel": "NewsMax TV",
+            "link": "https://list.iptvcat.com/my_list/s/296d4799294209bc5c342a54dfce3cf5.m3u8",
+            "country": "united states of america",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -7723,7 +7723,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5991, ...",
+            "mbps": "3795, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -8941,7 +8941,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "4825, ...",
+            "mbps": "6724, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9067,7 +9067,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "7004, ...",
+            "mbps": "4825, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9179,7 +9179,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5991, ...",
+            "mbps": "3795, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9738,7 +9738,7 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
+            "format": "hd",
             "mbps": "8370, ...",
             "URI": [
                 "united_states_of_america"
@@ -9795,7 +9795,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "8378",
             "URI": [
                 "united_states_of_america"
             ]
@@ -9829,20 +9829,6 @@
             ]
         },
         {
-            "id": "694706",
-            "channel": "Popstar! TV",
-            "link": "https://list.iptvcat.com/my_list/s/bd6873d67626305870d1dabf79ed0ccd.m3u8",
-            "country": "united states of america",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370, ...",
-            "URI": [
-                "united_states_of_america"
-            ]
-        },
-        {
             "id": "695079",
             "channel": "Popstar! TV",
             "link": "https://list.iptvcat.com/my_list/s/af31ca2e466a59ae7f84e113e29322e6.m3u8",
@@ -9857,11 +9843,25 @@
             ]
         },
         {
+            "id": "694706",
+            "channel": "Popstar! TV",
+            "link": "https://list.iptvcat.com/my_list/s/bd6873d67626305870d1dabf79ed0ccd.m3u8",
+            "country": "united states of america",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370, ...",
+            "URI": [
+                "united_states_of_america"
+            ]
+        },
+        {
             "id": "24308",
             "channel": "Promar TV (Opt-3)",
             "link": "https://list.iptvcat.com/my_list/s/fb5505917dc569179ee4d2594aaa3047.m3u8",
             "country": "united states of america",
-            "liveliness": "91",
+            "liveliness": "92",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
@@ -9913,20 +9913,6 @@
             ]
         },
         {
-            "id": "2484366",
-            "channel": "QVC",
-            "link": "https://list.iptvcat.com/my_list/s/4746f5e5f26c35398e4fea1792f6c048.m3u8",
-            "country": "united states of america",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "1736",
-            "URI": [
-                "united_states_of_america"
-            ]
-        },
-        {
             "id": "2592627",
             "channel": "QVC",
             "link": "https://list.iptvcat.com/my_list/s/f6ce752184e3c99506a58e50234006f8.m3u8",
@@ -9936,6 +9922,20 @@
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
+            "URI": [
+                "united_states_of_america"
+            ]
+        },
+        {
+            "id": "2484366",
+            "channel": "QVC",
+            "link": "https://list.iptvcat.com/my_list/s/4746f5e5f26c35398e4fea1792f6c048.m3u8",
+            "country": "united states of america",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "sd",
+            "mbps": "1736",
             "URI": [
                 "united_states_of_america"
             ]
@@ -10131,7 +10131,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "3799, ...",
+            "mbps": "3188, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -10158,8 +10158,8 @@
             "liveliness": "87",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "3064, ...",
+            "format": "sd",
+            "mbps": "2396, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -10170,10 +10170,10 @@
             "link": "https://list.iptvcat.com/my_list/s/0416f836f345c3c793f3582f2ea9a4b2.m3u8",
             "country": "united states of america",
             "liveliness": "84",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "3066, ...",
+            "mbps": "3064, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -10200,8 +10200,8 @@
             "liveliness": "84",
             "status": "offline",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "3064, ...",
+            "format": "sd",
+            "mbps": "1247, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -10495,7 +10495,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "577",
+            "mbps": "3429",
             "URI": [
                 "united_states_of_america"
             ]
@@ -10508,8 +10508,8 @@
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "4302",
+            "format": "hd",
+            "mbps": "5991",
             "URI": [
                 "united_states_of_america"
             ]
@@ -10886,8 +10886,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "4302",
+            "format": "hd",
+            "mbps": "5991, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -10929,7 +10929,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "8378, ...",
+            "mbps": "5997, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -10942,8 +10942,8 @@
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "1600",
+            "format": "hd",
+            "mbps": "3795, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -11614,8 +11614,8 @@
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "4821, ...",
+            "format": "sd",
+            "mbps": "3262, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -11797,7 +11797,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "3625, ...",
+            "mbps": "3625",
             "URI": [
                 "united_states_of_america"
             ]
@@ -11950,8 +11950,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "4043, ...",
+            "format": "hd",
+            "mbps": "6241, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -12006,8 +12006,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "8370, ...",
+            "format": "fhd 2k",
+            "mbps": "8378, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -12055,20 +12055,6 @@
             ]
         },
         {
-            "id": "695099",
-            "channel": "The First",
-            "link": "https://list.iptvcat.com/my_list/s/97a206a201f34de455fca716c8724657.m3u8",
-            "country": "united states of america",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "13311, ...",
-            "URI": [
-                "united_states_of_america"
-            ]
-        },
-        {
             "id": "2592743",
             "channel": "The First",
             "link": "https://list.iptvcat.com/my_list/s/cf1180f086f445996566abfc51cfc64c.m3u8",
@@ -12083,6 +12069,20 @@
             ]
         },
         {
+            "id": "695099",
+            "channel": "The First",
+            "link": "https://list.iptvcat.com/my_list/s/97a206a201f34de455fca716c8724657.m3u8",
+            "country": "united states of america",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "hd",
+            "mbps": "13311, ...",
+            "URI": [
+                "united_states_of_america"
+            ]
+        },
+        {
             "id": "694722",
             "channel": "The Love Destination",
             "link": "https://list.iptvcat.com/my_list/s/cde5594ede00ea3e92c20aaa88f144b0.m3u8",
@@ -12090,8 +12090,8 @@
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020, ...",
+            "format": "fhd 2k",
+            "mbps": "6730, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -12217,7 +12217,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5020, ...",
+            "mbps": "3188, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -12382,7 +12382,7 @@
             "link": "https://list.iptvcat.com/my_list/s/404032c2c53727dd5cb228d5bc355df7.m3u8",
             "country": "united states of america",
             "liveliness": "99",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
@@ -12609,7 +12609,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "920, ...",
+            "mbps": "484",
             "URI": [
                 "united_states_of_america"
             ]
@@ -12763,7 +12763,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "2946, ...",
+            "mbps": "1765, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -12917,7 +12917,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5991",
+            "mbps": "4821",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -12945,7 +12945,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5991",
+            "mbps": "4821",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -13029,7 +13029,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "1357, ...",
+            "mbps": "3799, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -13138,7 +13138,7 @@
             "link": "https://list.iptvcat.com/my_list/s/efee943943873521da7d98263e082ade.m3u8",
             "country": "united states of america",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -13253,7 +13253,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "3795",
+            "mbps": "3795, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -13268,34 +13268,6 @@
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "3347",
-            "channel": "AKC TV",
-            "link": "https://list.iptvcat.com/my_list/s/df2457aa20bae287086a64d5804fa9d5.m3u8",
-            "country": "united states of america",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370, ...",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "55718",
-            "channel": "AKC TV, US | AKC TV",
-            "link": "https://list.iptvcat.com/my_list/s/321feb163fa4bbd95bfb68655b9ff175.m3u8",
-            "country": "united states of america",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -13324,6 +13296,34 @@
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "3347",
+            "channel": "AKC TV",
+            "link": "https://list.iptvcat.com/my_list/s/df2457aa20bae287086a64d5804fa9d5.m3u8",
+            "country": "united states of america",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370, ...",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "55718",
+            "channel": "AKC TV, US | AKC TV",
+            "link": "https://list.iptvcat.com/my_list/s/321feb163fa4bbd95bfb68655b9ff175.m3u8",
+            "country": "united states of america",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -13539,9 +13539,9 @@
             ]
         },
         {
-            "id": "3349",
+            "id": "3350",
             "channel": "Al Horreya TV",
-            "link": "https://list.iptvcat.com/my_list/s/7f0902a934b960466532b69887371d5c.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/b2a032aaf1f8caacb57f7d9ab1b946c1.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -13553,9 +13553,9 @@
             ]
         },
         {
-            "id": "3350",
+            "id": "3349",
             "channel": "Al Horreya TV",
-            "link": "https://list.iptvcat.com/my_list/s/b2a032aaf1f8caacb57f7d9ab1b946c1.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7f0902a934b960466532b69887371d5c.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -13603,21 +13603,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "3069, ...",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "55777",
-            "channel": "American Classics, Redbox : American Classics, US | American Classics",
-            "link": "https://list.iptvcat.com/my_list/s/cb83c9322283ca48bc6d8212d6f4d090.m3u8",
-            "country": "united states of america",
-            "liveliness": "85",
-            "status": "offline",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "3064, ...",
+            "mbps": "6000, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -13631,21 +13617,21 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "1112",
+            "mbps": "1356",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
         },
         {
-            "id": "2592813",
-            "channel": "American Heroes Channel",
-            "link": "https://list.iptvcat.com/my_list/s/5c0e02dda966867ecbbf5d28496846ee.m3u8",
+            "id": "55777",
+            "channel": "American Classics, Redbox : American Classics, US | American Classics",
+            "link": "https://list.iptvcat.com/my_list/s/cb83c9322283ca48bc6d8212d6f4d090.m3u8",
             "country": "united states of america",
-            "liveliness": "100",
+            "liveliness": "85",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "sd",
+            "mbps": "1124, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -13665,15 +13651,15 @@
             ]
         },
         {
-            "id": "3356",
-            "channel": "American Horrors",
-            "link": "https://list.iptvcat.com/my_list/s/0c0945ae3a06fd12141f226745f18bd2.m3u8",
+            "id": "2592813",
+            "channel": "American Heroes Channel",
+            "link": "https://list.iptvcat.com/my_list/s/5c0e02dda966867ecbbf5d28496846ee.m3u8",
             "country": "united states of america",
-            "liveliness": "99",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "4318",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -13686,8 +13672,22 @@
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13311",
+            "format": "sd",
+            "mbps": "2313",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "3356",
+            "channel": "American Horrors",
+            "link": "https://list.iptvcat.com/my_list/s/0c0945ae3a06fd12141f226745f18bd2.m3u8",
+            "country": "united states of america",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "sd",
+            "mbps": "2020",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -13967,7 +13967,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "3795",
+            "mbps": "4318",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -14029,9 +14029,9 @@
             ]
         },
         {
-            "id": "3372",
-            "channel": "Better Life TV",
-            "link": "https://list.iptvcat.com/my_list/s/6908203a50a07e7b3e6faa91a62bf7e5.m3u8",
+            "id": "55779",
+            "channel": "Better Life TV, US | Better Life TV",
+            "link": "https://list.iptvcat.com/my_list/s/1103aa47de6b5875949237144ee0e704.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -14043,9 +14043,9 @@
             ]
         },
         {
-            "id": "55779",
-            "channel": "Better Life TV, US | Better Life TV",
-            "link": "https://list.iptvcat.com/my_list/s/1103aa47de6b5875949237144ee0e704.m3u8",
+            "id": "3372",
+            "channel": "Better Life TV",
+            "link": "https://list.iptvcat.com/my_list/s/6908203a50a07e7b3e6faa91a62bf7e5.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -14104,7 +14104,7 @@
             "link": "https://list.iptvcat.com/my_list/s/7333a4a1e4ed1c119891dd5b8659ade6.m3u8",
             "country": "united states of america",
             "liveliness": "100",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
@@ -14736,7 +14736,7 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
+            "format": "hd",
             "mbps": "8370, ...",
             "URI": [
                 "united_states_of_america"
@@ -14793,7 +14793,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "8370",
+            "mbps": "8378",
             "URI": [
                 "united_states_of_america"
             ]
@@ -14827,20 +14827,6 @@
             ]
         },
         {
-            "id": "694706",
-            "channel": "Popstar! TV",
-            "link": "https://list.iptvcat.com/my_list/s/bd6873d67626305870d1dabf79ed0ccd.m3u8",
-            "country": "united states of america",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370, ...",
-            "URI": [
-                "united_states_of_america"
-            ]
-        },
-        {
             "id": "695079",
             "channel": "Popstar! TV",
             "link": "https://list.iptvcat.com/my_list/s/af31ca2e466a59ae7f84e113e29322e6.m3u8",
@@ -14855,11 +14841,25 @@
             ]
         },
         {
+            "id": "694706",
+            "channel": "Popstar! TV",
+            "link": "https://list.iptvcat.com/my_list/s/bd6873d67626305870d1dabf79ed0ccd.m3u8",
+            "country": "united states of america",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370, ...",
+            "URI": [
+                "united_states_of_america"
+            ]
+        },
+        {
             "id": "24308",
             "channel": "Promar TV (Opt-3)",
             "link": "https://list.iptvcat.com/my_list/s/fb5505917dc569179ee4d2594aaa3047.m3u8",
             "country": "united states of america",
-            "liveliness": "91",
+            "liveliness": "92",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
@@ -14911,20 +14911,6 @@
             ]
         },
         {
-            "id": "2484366",
-            "channel": "QVC",
-            "link": "https://list.iptvcat.com/my_list/s/4746f5e5f26c35398e4fea1792f6c048.m3u8",
-            "country": "united states of america",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "1736",
-            "URI": [
-                "united_states_of_america"
-            ]
-        },
-        {
             "id": "2592627",
             "channel": "QVC",
             "link": "https://list.iptvcat.com/my_list/s/f6ce752184e3c99506a58e50234006f8.m3u8",
@@ -14934,6 +14920,20 @@
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
+            "URI": [
+                "united_states_of_america"
+            ]
+        },
+        {
+            "id": "2484366",
+            "channel": "QVC",
+            "link": "https://list.iptvcat.com/my_list/s/4746f5e5f26c35398e4fea1792f6c048.m3u8",
+            "country": "united states of america",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "sd",
+            "mbps": "1736",
             "URI": [
                 "united_states_of_america"
             ]
@@ -15129,7 +15129,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "3799, ...",
+            "mbps": "3188, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -15156,8 +15156,8 @@
             "liveliness": "87",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "3064, ...",
+            "format": "sd",
+            "mbps": "2396, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -15168,10 +15168,10 @@
             "link": "https://list.iptvcat.com/my_list/s/0416f836f345c3c793f3582f2ea9a4b2.m3u8",
             "country": "united states of america",
             "liveliness": "84",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "3066, ...",
+            "mbps": "3064, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -15198,8 +15198,8 @@
             "liveliness": "84",
             "status": "offline",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "3064, ...",
+            "format": "sd",
+            "mbps": "1247, ...",
             "URI": [
                 "united_states_of_america"
             ]
@@ -15493,7 +15493,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "577",
+            "mbps": "3429",
             "URI": [
                 "united_states_of_america"
             ]
@@ -15506,8 +15506,8 @@
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "4302",
+            "format": "hd",
+            "mbps": "5991",
             "URI": [
                 "united_states_of_america"
             ]
@@ -15714,10 +15714,10 @@
             "link": "https://list.iptvcat.com/my_list/s/cc257e716cb9eb07ab73bc3d4f024e7a.m3u8",
             "country": "united states of america",
             "liveliness": "84",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "1247, ...",
+            "format": "hd",
+            "mbps": "3066, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -15786,8 +15786,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "3799",
+            "format": "sd",
+            "mbps": "1395",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -15801,7 +15801,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "868",
+            "mbps": "1052",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -15856,8 +15856,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "3799",
+            "format": "sd",
+            "mbps": "1761",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -16801,20 +16801,6 @@
             ]
         },
         {
-            "id": "3602",
-            "channel": "New Orleans TV",
-            "link": "https://list.iptvcat.com/my_list/s/01a7ce738878931ffb935d88707a5a11.m3u8",
-            "country": "united states of america",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "3795",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "14302",
             "channel": "New Orleans TV",
             "link": "https://list.iptvcat.com/my_list/s/97e13d13989852f810b86f1efd02f17e.m3u8",
@@ -16829,15 +16815,15 @@
             ]
         },
         {
-            "id": "2592597",
-            "channel": "NewsMax TV",
-            "link": "https://list.iptvcat.com/my_list/s/296d4799294209bc5c342a54dfce3cf5.m3u8",
+            "id": "3602",
+            "channel": "New Orleans TV",
+            "link": "https://list.iptvcat.com/my_list/s/01a7ce738878931ffb935d88707a5a11.m3u8",
             "country": "united states of america",
-            "liveliness": "100",
+            "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "hd",
+            "mbps": "3795",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -16852,6 +16838,20 @@
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2592597",
+            "channel": "NewsMax TV",
+            "link": "https://list.iptvcat.com/my_list/s/296d4799294209bc5c342a54dfce3cf5.m3u8",
+            "country": "united states of america",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -16921,7 +16921,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5991, ...",
+            "mbps": "3795, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -17172,7 +17172,7 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
+            "format": "hd",
             "mbps": "8370, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
@@ -17365,7 +17365,7 @@
             "channel": "HGTV",
             "link": "https://list.iptvcat.com/my_list/s/e02861220703f7e6a9cfa19f9767f9cc.m3u8",
             "country": "united states of america",
-            "liveliness": "33",
+            "liveliness": "25",
             "status": "offline",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
@@ -17557,20 +17557,6 @@
             ]
         },
         {
-            "id": "3526",
-            "channel": "Hunt Channel",
-            "link": "https://list.iptvcat.com/my_list/s/bee725987e9d356cbd65b369434122e3.m3u8",
-            "country": "united states of america",
-            "liveliness": "98",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "13311, ...",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "3527",
             "channel": "Hunt Channel",
             "link": "https://list.iptvcat.com/my_list/s/766c4a97750f326dd1fd25cda3014aab.m3u8",
@@ -17580,6 +17566,20 @@
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13311",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "3526",
+            "channel": "Hunt Channel",
+            "link": "https://list.iptvcat.com/my_list/s/bee725987e9d356cbd65b369434122e3.m3u8",
+            "country": "united states of america",
+            "liveliness": "98",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "hd",
+            "mbps": "13311, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -18013,7 +18013,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "1051",
+            "mbps": "2194",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -18055,7 +18055,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5981",
+            "mbps": "5997",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -18069,7 +18069,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5997",
+            "mbps": "5991",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -18124,8 +18124,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "485",
+            "format": "hd",
+            "mbps": "4322",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -18136,7 +18136,7 @@
             "link": "https://list.iptvcat.com/my_list/s/3235b2a9a3253e8c961d3a681b1ae354.m3u8",
             "country": "united states of america",
             "liveliness": "98",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
             "mbps": "1677",
@@ -18152,8 +18152,8 @@
             "liveliness": "98",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370, ...",
+            "format": "hd",
+            "mbps": "13311, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -18251,7 +18251,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "1052",
+            "mbps": "868",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -18545,7 +18545,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5991, ...",
+            "mbps": "3134, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -18831,9 +18831,9 @@
             ]
         },
         {
-            "id": "133495",
+            "id": "3471",
             "channel": "District of Columbia Network",
-            "link": "https://list.iptvcat.com/my_list/s/e985b5e3dba557f70a5b753a7b2df730.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e5fdb22f8426281a8d4c09f29fcba680.m3u8",
             "country": "united states of america",
             "liveliness": "100",
             "status": "online",
@@ -18845,9 +18845,9 @@
             ]
         },
         {
-            "id": "3471",
+            "id": "133495",
             "channel": "District of Columbia Network",
-            "link": "https://list.iptvcat.com/my_list/s/e5fdb22f8426281a8d4c09f29fcba680.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e985b5e3dba557f70a5b753a7b2df730.m3u8",
             "country": "united states of america",
             "liveliness": "100",
             "status": "online",
@@ -18867,7 +18867,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "2303",
+            "mbps": "2215",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -18894,8 +18894,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "1454",
+            "format": "fhd 2k",
+            "mbps": "8378, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -18915,9 +18915,9 @@
             ]
         },
         {
-            "id": "3475",
+            "id": "397160",
             "channel": "Dove Channel",
-            "link": "https://list.iptvcat.com/my_list/s/aa91c3cd119d355b9daef49a8a3b8349.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/441792298e4e255b52cd4a66f3979047.m3u8",
             "country": "united states of america",
             "liveliness": "100",
             "status": "online",
@@ -18929,9 +18929,9 @@
             ]
         },
         {
-            "id": "397160",
+            "id": "3475",
             "channel": "Dove Channel",
-            "link": "https://list.iptvcat.com/my_list/s/441792298e4e255b52cd4a66f3979047.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/aa91c3cd119d355b9daef49a8a3b8349.m3u8",
             "country": "united states of america",
             "liveliness": "100",
             "status": "online",
@@ -19090,8 +19090,8 @@
             "liveliness": "94",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "sd",
-            "mbps": "1732, ...",
+            "format": "hd",
+            "mbps": "6724, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -19745,7 +19745,7 @@
             "channel": "Fox News",
             "link": "https://list.iptvcat.com/my_list/s/6187518c1a81ce2b8d3f81452890de2d.m3u8",
             "country": "united states of america",
-            "liveliness": "33",
+            "liveliness": "25",
             "status": "offline",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
@@ -19917,7 +19917,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5991",
+            "mbps": "4821",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -19945,7 +19945,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5991",
+            "mbps": "4821",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -20029,7 +20029,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "1357, ...",
+            "mbps": "3799, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -20138,7 +20138,7 @@
             "link": "https://list.iptvcat.com/my_list/s/efee943943873521da7d98263e082ade.m3u8",
             "country": "united states of america",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -20253,7 +20253,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "3795",
+            "mbps": "3795, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -20268,34 +20268,6 @@
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "3347",
-            "channel": "AKC TV",
-            "link": "https://list.iptvcat.com/my_list/s/df2457aa20bae287086a64d5804fa9d5.m3u8",
-            "country": "united states of america",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370, ...",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "55718",
-            "channel": "AKC TV, US | AKC TV",
-            "link": "https://list.iptvcat.com/my_list/s/321feb163fa4bbd95bfb68655b9ff175.m3u8",
-            "country": "united states of america",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -20324,6 +20296,34 @@
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "3347",
+            "channel": "AKC TV",
+            "link": "https://list.iptvcat.com/my_list/s/df2457aa20bae287086a64d5804fa9d5.m3u8",
+            "country": "united states of america",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370, ...",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "55718",
+            "channel": "AKC TV, US | AKC TV",
+            "link": "https://list.iptvcat.com/my_list/s/321feb163fa4bbd95bfb68655b9ff175.m3u8",
+            "country": "united states of america",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -20539,9 +20539,9 @@
             ]
         },
         {
-            "id": "3349",
+            "id": "3350",
             "channel": "Al Horreya TV",
-            "link": "https://list.iptvcat.com/my_list/s/7f0902a934b960466532b69887371d5c.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/b2a032aaf1f8caacb57f7d9ab1b946c1.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -20553,9 +20553,9 @@
             ]
         },
         {
-            "id": "3350",
+            "id": "3349",
             "channel": "Al Horreya TV",
-            "link": "https://list.iptvcat.com/my_list/s/b2a032aaf1f8caacb57f7d9ab1b946c1.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7f0902a934b960466532b69887371d5c.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -20603,21 +20603,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "3069, ...",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "55777",
-            "channel": "American Classics, Redbox : American Classics, US | American Classics",
-            "link": "https://list.iptvcat.com/my_list/s/cb83c9322283ca48bc6d8212d6f4d090.m3u8",
-            "country": "united states of america",
-            "liveliness": "85",
-            "status": "offline",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "3064, ...",
+            "mbps": "6000, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -20631,21 +20617,21 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "1112",
+            "mbps": "1356",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
         },
         {
-            "id": "2592813",
-            "channel": "American Heroes Channel",
-            "link": "https://list.iptvcat.com/my_list/s/5c0e02dda966867ecbbf5d28496846ee.m3u8",
+            "id": "55777",
+            "channel": "American Classics, Redbox : American Classics, US | American Classics",
+            "link": "https://list.iptvcat.com/my_list/s/cb83c9322283ca48bc6d8212d6f4d090.m3u8",
             "country": "united states of america",
-            "liveliness": "100",
+            "liveliness": "85",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "sd",
+            "mbps": "1124, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -20665,15 +20651,15 @@
             ]
         },
         {
-            "id": "3356",
-            "channel": "American Horrors",
-            "link": "https://list.iptvcat.com/my_list/s/0c0945ae3a06fd12141f226745f18bd2.m3u8",
+            "id": "2592813",
+            "channel": "American Heroes Channel",
+            "link": "https://list.iptvcat.com/my_list/s/5c0e02dda966867ecbbf5d28496846ee.m3u8",
             "country": "united states of america",
-            "liveliness": "99",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "4318",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -20686,8 +20672,22 @@
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13311",
+            "format": "sd",
+            "mbps": "2313",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "3356",
+            "channel": "American Horrors",
+            "link": "https://list.iptvcat.com/my_list/s/0c0945ae3a06fd12141f226745f18bd2.m3u8",
+            "country": "united states of america",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "sd",
+            "mbps": "2020",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -20967,7 +20967,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "3795",
+            "mbps": "4318",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -21029,9 +21029,9 @@
             ]
         },
         {
-            "id": "3372",
-            "channel": "Better Life TV",
-            "link": "https://list.iptvcat.com/my_list/s/6908203a50a07e7b3e6faa91a62bf7e5.m3u8",
+            "id": "55779",
+            "channel": "Better Life TV, US | Better Life TV",
+            "link": "https://list.iptvcat.com/my_list/s/1103aa47de6b5875949237144ee0e704.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -21043,9 +21043,9 @@
             ]
         },
         {
-            "id": "55779",
-            "channel": "Better Life TV, US | Better Life TV",
-            "link": "https://list.iptvcat.com/my_list/s/1103aa47de6b5875949237144ee0e704.m3u8",
+            "id": "3372",
+            "channel": "Better Life TV",
+            "link": "https://list.iptvcat.com/my_list/s/6908203a50a07e7b3e6faa91a62bf7e5.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -21104,7 +21104,7 @@
             "link": "https://list.iptvcat.com/my_list/s/7333a4a1e4ed1c119891dd5b8659ade6.m3u8",
             "country": "united states of america",
             "liveliness": "100",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
@@ -22339,7 +22339,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "4825, ...",
+            "mbps": "6724, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -22465,7 +22465,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "7004, ...",
+            "mbps": "4825, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -22577,7 +22577,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5991, ...",
+            "mbps": "3795, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -22717,7 +22717,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5991",
+            "mbps": "4821",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -22745,7 +22745,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "5991",
+            "mbps": "4821",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -22829,7 +22829,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "1357, ...",
+            "mbps": "3799, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -22938,7 +22938,7 @@
             "link": "https://list.iptvcat.com/my_list/s/efee943943873521da7d98263e082ade.m3u8",
             "country": "united states of america",
             "liveliness": "99",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
@@ -23053,7 +23053,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "3795",
+            "mbps": "3795, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -23068,34 +23068,6 @@
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "3347",
-            "channel": "AKC TV",
-            "link": "https://list.iptvcat.com/my_list/s/df2457aa20bae287086a64d5804fa9d5.m3u8",
-            "country": "united states of america",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370, ...",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "55718",
-            "channel": "AKC TV, US | AKC TV",
-            "link": "https://list.iptvcat.com/my_list/s/321feb163fa4bbd95bfb68655b9ff175.m3u8",
-            "country": "united states of america",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8370",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -23124,6 +23096,34 @@
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "3347",
+            "channel": "AKC TV",
+            "link": "https://list.iptvcat.com/my_list/s/df2457aa20bae287086a64d5804fa9d5.m3u8",
+            "country": "united states of america",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370, ...",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "55718",
+            "channel": "AKC TV, US | AKC TV",
+            "link": "https://list.iptvcat.com/my_list/s/321feb163fa4bbd95bfb68655b9ff175.m3u8",
+            "country": "united states of america",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "8370",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -23339,9 +23339,9 @@
             ]
         },
         {
-            "id": "3349",
+            "id": "3350",
             "channel": "Al Horreya TV",
-            "link": "https://list.iptvcat.com/my_list/s/7f0902a934b960466532b69887371d5c.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/b2a032aaf1f8caacb57f7d9ab1b946c1.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -23353,9 +23353,9 @@
             ]
         },
         {
-            "id": "3350",
+            "id": "3349",
             "channel": "Al Horreya TV",
-            "link": "https://list.iptvcat.com/my_list/s/b2a032aaf1f8caacb57f7d9ab1b946c1.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/7f0902a934b960466532b69887371d5c.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -23403,21 +23403,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "3069, ...",
-            "URI": [
-                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "55777",
-            "channel": "American Classics, Redbox : American Classics, US | American Classics",
-            "link": "https://list.iptvcat.com/my_list/s/cb83c9322283ca48bc6d8212d6f4d090.m3u8",
-            "country": "united states of america",
-            "liveliness": "85",
-            "status": "offline",
-            "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "3064, ...",
+            "mbps": "6000, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -23431,21 +23417,21 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "sd",
-            "mbps": "1112",
+            "mbps": "1356",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
         },
         {
-            "id": "2592813",
-            "channel": "American Heroes Channel",
-            "link": "https://list.iptvcat.com/my_list/s/5c0e02dda966867ecbbf5d28496846ee.m3u8",
+            "id": "55777",
+            "channel": "American Classics, Redbox : American Classics, US | American Classics",
+            "link": "https://list.iptvcat.com/my_list/s/cb83c9322283ca48bc6d8212d6f4d090.m3u8",
             "country": "united states of america",
-            "liveliness": "100",
+            "liveliness": "85",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "sd",
+            "mbps": "1124, ...",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -23465,15 +23451,15 @@
             ]
         },
         {
-            "id": "3356",
-            "channel": "American Horrors",
-            "link": "https://list.iptvcat.com/my_list/s/0c0945ae3a06fd12141f226745f18bd2.m3u8",
+            "id": "2592813",
+            "channel": "American Heroes Channel",
+            "link": "https://list.iptvcat.com/my_list/s/5c0e02dda966867ecbbf5d28496846ee.m3u8",
             "country": "united states of america",
-            "liveliness": "99",
+            "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "hd",
-            "mbps": "4318",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -23486,8 +23472,22 @@
             "liveliness": "99",
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13311",
+            "format": "sd",
+            "mbps": "2313",
+            "URI": [
+                "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "3356",
+            "channel": "American Horrors",
+            "link": "https://list.iptvcat.com/my_list/s/0c0945ae3a06fd12141f226745f18bd2.m3u8",
+            "country": "united states of america",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-09-14T00:00:00Z",
+            "format": "sd",
+            "mbps": "2020",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -23767,7 +23767,7 @@
             "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
-            "mbps": "3795",
+            "mbps": "4318",
             "URI": [
                 "united_states_of_america_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -23829,9 +23829,9 @@
             ]
         },
         {
-            "id": "3372",
-            "channel": "Better Life TV",
-            "link": "https://list.iptvcat.com/my_list/s/6908203a50a07e7b3e6faa91a62bf7e5.m3u8",
+            "id": "55779",
+            "channel": "Better Life TV, US | Better Life TV",
+            "link": "https://list.iptvcat.com/my_list/s/1103aa47de6b5875949237144ee0e704.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -23843,9 +23843,9 @@
             ]
         },
         {
-            "id": "55779",
-            "channel": "Better Life TV, US | Better Life TV",
-            "link": "https://list.iptvcat.com/my_list/s/1103aa47de6b5875949237144ee0e704.m3u8",
+            "id": "3372",
+            "channel": "Better Life TV",
+            "link": "https://list.iptvcat.com/my_list/s/6908203a50a07e7b3e6faa91a62bf7e5.m3u8",
             "country": "united states of america",
             "liveliness": "99",
             "status": "online",
@@ -23904,7 +23904,7 @@
             "link": "https://list.iptvcat.com/my_list/s/7333a4a1e4ed1c119891dd5b8659ade6.m3u8",
             "country": "united states of america",
             "liveliness": "100",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-09-14T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
