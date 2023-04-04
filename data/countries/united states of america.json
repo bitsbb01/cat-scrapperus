@@ -1448,7 +1448,7 @@
         "country": "united states of america",
         "liveliness": "98",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1462,7 +1462,7 @@
         "country": "united states of america",
         "liveliness": "98",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1476,7 +1476,7 @@
         "country": "united states of america",
         "liveliness": "98",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -7000,20 +7000,6 @@
         ]
     },
     {
-        "id": "2592717",
-        "channel": "Starz In Black (West) US",
-        "link": "https://list.iptvcat.com/my_list/s/66fd9002bd6ce02828c7e2a568666227.m3u8",
-        "country": "united states of america",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2023-04-02T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "united_states_of_america__4"
-        ]
-    },
-    {
         "id": "2592720",
         "channel": "Starz Kids (West) US",
         "link": "https://list.iptvcat.com/my_list/s/fed3dfba1cbab52a0eeff83a907ff461.m3u8",
@@ -7369,7 +7355,7 @@
         "link": "https://list.iptvcat.com/my_list/s/17453ae9b80477a2e9357db03e53c08a.m3u8",
         "country": "united states of america",
         "liveliness": "85",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-04-03T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -8778,20 +8764,6 @@
         ]
     },
     {
-        "id": "695035",
-        "channel": "RedBox Maverick Movies",
-        "link": "https://list.iptvcat.com/my_list/s/ecf2e6c69e8e080e74b82be918663cf4.m3u8",
-        "country": "united states of america",
-        "liveliness": "81",
-        "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799, ...",
-        "URI": [
-            "united_states_of_america"
-        ]
-    },
-    {
         "id": "695036",
         "channel": "Redbox : Redbox 3, RedBox Rush",
         "link": "https://list.iptvcat.com/my_list/s/85437eca8f027e8aec2feb1f9193c898.m3u8",
@@ -10139,6 +10111,20 @@
         "id": "2592715",
         "channel": "Starz In Black (East) US",
         "link": "https://list.iptvcat.com/my_list/s/3da1a49b6600ff24b8a980be2e1e9284.m3u8",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2023-04-02T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_states_of_america"
+        ]
+    },
+    {
+        "id": "2592717",
+        "channel": "Starz In Black (West) US",
+        "link": "https://list.iptvcat.com/my_list/s/66fd9002bd6ce02828c7e2a568666227.m3u8",
         "country": "united states of america",
         "liveliness": "100",
         "status": "online",
@@ -11578,20 +11564,6 @@
         ]
     },
     {
-        "id": "695035",
-        "channel": "RedBox Maverick Movies",
-        "link": "https://list.iptvcat.com/my_list/s/ecf2e6c69e8e080e74b82be918663cf4.m3u8",
-        "country": "united states of america",
-        "liveliness": "81",
-        "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799, ...",
-        "URI": [
-            "united_states_of_america"
-        ]
-    },
-    {
         "id": "695036",
         "channel": "Redbox : Redbox 3, RedBox Rush",
         "link": "https://list.iptvcat.com/my_list/s/85437eca8f027e8aec2feb1f9193c898.m3u8",
@@ -12960,7 +12932,7 @@
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "united_states_of_america__4"
+            "united_states_of_america"
         ]
     },
     {
@@ -13319,7 +13291,7 @@
         "link": "https://list.iptvcat.com/my_list/s/17453ae9b80477a2e9357db03e53c08a.m3u8",
         "country": "united states of america",
         "liveliness": "85",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2023-04-03T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
@@ -17548,7 +17520,7 @@
         "country": "united states of america",
         "liveliness": "98",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -17562,7 +17534,7 @@
         "country": "united states of america",
         "liveliness": "98",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -17576,7 +17548,7 @@
         "country": "united states of america",
         "liveliness": "98",
         "status": "offline",
-        "lastChecked": "2023-04-03T00:00:00Z",
+        "lastChecked": "2023-04-04T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
